@@ -83,7 +83,7 @@ This trend suggests that the gaming industry went through an era of expansion, b
 
 Examining video game sales across platforms and regions helps in identifying key market trends. The following visualization provides an overview of global sales across major platforms from 2012 to 2016.
 
-    [![Regional Sales Distribution](../plots/Regional_game_sales_distribution.png)](../plots/Regional_game_sales_distribution.png)
+    [![Regional Sales Distribution](./plots/Regional_game_sales_distribution.png)](./plots/Regional_game_sales_distribution.png)
 
 
 Key Observations:
