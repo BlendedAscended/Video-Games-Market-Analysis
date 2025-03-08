@@ -74,7 +74,7 @@ Below are some of the key visualizations used in the analysis:
 
 The number of games released over time shows an upward trend from the 1980s to the late 2000s, peaking around 2008-2009, followed by a decline in recent years.
 
-     [![Games Released Per Year](plots/games_per_year.png)](plots/games_per_year.png)
+   [![Games Released Per Year](plots/games_per_year.png)](plots/games_per_year.png)
 
 
 
@@ -101,12 +101,12 @@ To understand how game ratings impact sales, we analyzed the correlation between
 
 Critic Score vs. Global Sales
 
-    [![Critic Score vs. Sales](plots/critic_sales.png)](plots/critic_sales.png)
+   [![Critic Score vs. Sales](plots/critic_sales.png)](plots/critic_sales.png)
 
 
 User Score vs. Global Sales
 
-    [![User Score vs. Sales](plots/critic_user.png)](/plots/critic_user.png)
+   [![User Score vs. Sales](plots/critic_user.png)](/plots/critic_user.png)
 
 
 Key Takeaways:
