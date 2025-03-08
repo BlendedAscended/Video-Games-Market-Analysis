@@ -74,7 +74,8 @@ Below are some of the key visualizations used in the analysis:
 
 The number of games released over time shows an upward trend from the 1980s to the late 2000s, peaking around 2008-2009, followed by a decline in recent years.
 
-    [![Games Released Per Year](/plots/games_per_year.png)](/plots/games_per_year.png)
+    [![Games Released Per Year](https://raw.githubusercontent.com/BlendedAscended/Video-Games-Market-Analysis/main/plots/games_per_year.png)](https://raw.githubusercontent.com/BlendedAscended/Video-Games-Market-Analysis/main/plots/games_per_year.png)
+
 
 
 This trend suggests that the gaming industry went through an era of expansion, but possibly due to market saturation or evolving business models (e.g., digital downloads and live-service games), the volume of new releases declined.
@@ -83,7 +84,7 @@ This trend suggests that the gaming industry went through an era of expansion, b
 
 Examining video game sales across platforms and regions helps in identifying key market trends. The following visualization provides an overview of global sales across major platforms from 2012 to 2016.
 
-    [![Regional Sales Distribution](./plots/Regional_game_sales_distribution.png)](./plots/Regional_game_sales_distribution.png)
+    [![Regional Sales Distribution](plots/Regional_game_sales_distribution.png)](plots/Regional_game_sales_distribution.png)
 
 
 Key Observations:
