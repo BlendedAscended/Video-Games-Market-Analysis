@@ -123,12 +123,12 @@ To further investigate score distributions, we analyze the spread of critic and 
 
 Critic Score Distribution
 
-    [![Critic Score Distribution](plots/critic_score_distribution.png)](plots/critic_score_distribution.png)
+   [![Critic Score Distribution](plots/critic_score_distribution.png)](plots/critic_score_distribution.png)
 
 
 User Score Distribution
 
-    [![User Score Distribution](plots/user_score_distribution.png)](plots/user_score_distribution.png)
+   [![User Score Distribution](plots/user_score_distribution.png)](plots/user_score_distribution.png)
 
 
 Observations:
