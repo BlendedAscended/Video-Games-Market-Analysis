@@ -74,7 +74,7 @@ Below are some of the key visualizations used in the analysis:
 
 The number of games released over time shows an upward trend from the 1980s to the late 2000s, peaking around 2008-2009, followed by a decline in recent years.
 
-    [![Games Released Per Year](https://raw.githubusercontent.com/BlendedAscended/Video-Games-Market-Analysis/main/plots/games_per_year.png)](https://raw.githubusercontent.com/BlendedAscended/Video-Games-Market-Analysis/main/plots/games_per_year.png)
+     [![Games Released Per Year](plots/games_per_year.png)](plots/games_per_year.png)
 
 
 
